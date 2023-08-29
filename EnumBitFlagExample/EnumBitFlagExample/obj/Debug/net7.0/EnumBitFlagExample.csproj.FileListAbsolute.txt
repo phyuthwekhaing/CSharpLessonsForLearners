@@ -1,0 +1,14 @@
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/bin/Debug/net7.0/EnumBitFlagExample
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/bin/Debug/net7.0/EnumBitFlagExample.deps.json
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/bin/Debug/net7.0/EnumBitFlagExample.runtimeconfig.json
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/bin/Debug/net7.0/EnumBitFlagExample.dll
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/bin/Debug/net7.0/EnumBitFlagExample.pdb
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/obj/Debug/net7.0/EnumBitFlagExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/obj/Debug/net7.0/EnumBitFlagExample.AssemblyInfoInputs.cache
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/obj/Debug/net7.0/EnumBitFlagExample.AssemblyInfo.cs
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/obj/Debug/net7.0/EnumBitFlagExample.csproj.CoreCompileInputs.cache
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/obj/Debug/net7.0/EnumBitFlagExample.dll
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/obj/Debug/net7.0/refint/EnumBitFlagExample.dll
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/obj/Debug/net7.0/EnumBitFlagExample.pdb
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/obj/Debug/net7.0/EnumBitFlagExample.genruntimeconfig.cache
+/Users/phyu/Projects/EnumBitFlagExample/EnumBitFlagExample/obj/Debug/net7.0/ref/EnumBitFlagExample.dll
