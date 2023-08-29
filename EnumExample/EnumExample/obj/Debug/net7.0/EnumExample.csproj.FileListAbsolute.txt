@@ -1,0 +1,14 @@
+/Users/phyu/Projects/EnumExample/EnumExample/bin/Debug/net7.0/EnumExample
+/Users/phyu/Projects/EnumExample/EnumExample/bin/Debug/net7.0/EnumExample.deps.json
+/Users/phyu/Projects/EnumExample/EnumExample/bin/Debug/net7.0/EnumExample.runtimeconfig.json
+/Users/phyu/Projects/EnumExample/EnumExample/bin/Debug/net7.0/EnumExample.dll
+/Users/phyu/Projects/EnumExample/EnumExample/bin/Debug/net7.0/EnumExample.pdb
+/Users/phyu/Projects/EnumExample/EnumExample/obj/Debug/net7.0/EnumExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phyu/Projects/EnumExample/EnumExample/obj/Debug/net7.0/EnumExample.AssemblyInfoInputs.cache
+/Users/phyu/Projects/EnumExample/EnumExample/obj/Debug/net7.0/EnumExample.AssemblyInfo.cs
+/Users/phyu/Projects/EnumExample/EnumExample/obj/Debug/net7.0/EnumExample.csproj.CoreCompileInputs.cache
+/Users/phyu/Projects/EnumExample/EnumExample/obj/Debug/net7.0/EnumExample.dll
+/Users/phyu/Projects/EnumExample/EnumExample/obj/Debug/net7.0/refint/EnumExample.dll
+/Users/phyu/Projects/EnumExample/EnumExample/obj/Debug/net7.0/EnumExample.pdb
+/Users/phyu/Projects/EnumExample/EnumExample/obj/Debug/net7.0/EnumExample.genruntimeconfig.cache
+/Users/phyu/Projects/EnumExample/EnumExample/obj/Debug/net7.0/ref/EnumExample.dll
