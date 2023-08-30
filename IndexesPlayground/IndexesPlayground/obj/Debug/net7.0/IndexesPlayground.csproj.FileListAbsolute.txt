@@ -1,0 +1,14 @@
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/bin/Debug/net7.0/IndexesPlayground
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/bin/Debug/net7.0/IndexesPlayground.deps.json
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/bin/Debug/net7.0/IndexesPlayground.runtimeconfig.json
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/bin/Debug/net7.0/IndexesPlayground.dll
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/bin/Debug/net7.0/IndexesPlayground.pdb
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/obj/Debug/net7.0/IndexesPlayground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/obj/Debug/net7.0/IndexesPlayground.AssemblyInfoInputs.cache
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/obj/Debug/net7.0/IndexesPlayground.AssemblyInfo.cs
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/obj/Debug/net7.0/IndexesPlayground.csproj.CoreCompileInputs.cache
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/obj/Debug/net7.0/IndexesPlayground.dll
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/obj/Debug/net7.0/refint/IndexesPlayground.dll
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/obj/Debug/net7.0/IndexesPlayground.pdb
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/obj/Debug/net7.0/IndexesPlayground.genruntimeconfig.cache
+/Users/phyu/Projects/IndexesPlayground/IndexesPlayground/obj/Debug/net7.0/ref/IndexesPlayground.dll

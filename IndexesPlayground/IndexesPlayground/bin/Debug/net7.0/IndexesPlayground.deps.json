@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IndexesPlayground/1.0.0": {
+        "runtime": {
+          "IndexesPlayground.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndexesPlayground/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
